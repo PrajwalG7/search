@@ -1,6 +1,6 @@
 # 🔍 `search` – AI Powered Shell Command Explainer
 
-A lightweight Python CLI tool that uses **Google Gemini AI** to provide and explain shell commands directly in your terminal. No more browser detours during development. Just `search` and get the results instantly.
+A lightweight Python CLI tool that uses Google Gemini AI to generate and explain shell commands directly in your terminal. No more browser detours during development. Just search and get the results instantly. No more browser detours during development. Just `search` and get the results instantly.
 
 > "Who likes to visit the browser every time? 🙂"
 
@@ -8,7 +8,7 @@ A lightweight Python CLI tool that uses **Google Gemini AI** to provide and expl
 
 ## ✨ Features
 
-- 🧠 Provides and explains CLI commands in a single line.
+- 🧠 Generates and explains CLI commands in a single line.
 - 📘 Gives a usage example for better understanding.
 - ⚡ Uses `gemini-1.5-flash-latest` (Google Gemini API) for fast results.
 - ⏱️ Displays time taken for the response in milliseconds.

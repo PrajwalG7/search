@@ -1,4 +1,4 @@
-# 🔍 `search` – AI Powered Shell Command Explainer
+# 🔍 `search` – AI-Powered Command Generator & Explainer for Terminal
 
 A lightweight Python-based CLI tool that uses Google Gemini to generate and explain shell commands based on user input. No more browser detours during development. Just `search` and get the results instantly.
 
